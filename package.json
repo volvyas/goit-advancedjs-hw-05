@@ -1,0 +1,24 @@
+{
+  "name": "goit-advancedjs-hw-05",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "web-dev-server --node-resolve --open --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volvyas/goit-advancedjs-hw-05.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/volvyas/goit-advancedjs-hw-05/issues"
+  },
+  "homepage": "https://github.com/volvyas/goit-advancedjs-hw-05#readme",
+  "devDependencies": {
+    "@web/dev-server": "^1.0.0"
+  }
+}
